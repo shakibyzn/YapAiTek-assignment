@@ -28,11 +28,6 @@ data formatting) and use exploratory data analytics techniques to find out patte
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
-
----
-
 ## License
 
 MIT License
