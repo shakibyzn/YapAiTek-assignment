@@ -24,7 +24,7 @@ data formatting) and use exploratory data analytics techniques to find out patte
 - Exploratory Data Analysis and Statistical Modeling
 - Machine Learning and Data Visualization
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#YapAITek-Assignment)
 
 ---
 
@@ -35,7 +35,7 @@ MIT License
 Copyright (c) [2020] [Shakib Yazdani]
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#YapAITek-Assignment)
 
 ---
 
@@ -44,4 +44,4 @@ Copyright (c) [2020] [Shakib Yazdani]
 - Twitter - [@iamshakibyz](https://twitter.com/iamshakibyz)
 - LinkedIn - [shakib-yazdani](https://www.linkedin.com/in/shakib-yazdani)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#YapAITek-Assignment)
